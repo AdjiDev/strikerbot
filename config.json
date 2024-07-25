@@ -1,0 +1,20 @@
+{
+    "owner": {
+        "nama": "Adji Saputra",
+        "nomer": "62831xxxxxxxx",
+        "wa": "62 831-xxxx-xxxx",
+        "email": "boleh kosong"
+    },
+    "sosial": {
+        "github": "https://github.com/adjidev",
+        "fb": "gak punya",
+        "ig": "https://instagram.com/rizkykianadaji",
+        "scbot": "https://github.com/adjidev/strikerbot"
+    },
+    "bot": {
+        "nama": "AILI - ARCHISO",
+        "versi": "0.24_demo",
+        "prefix": [".", "/", "!"],
+        "gambarmenu": "https://i.ytimg.com/vi/_OVkMLE0xPo/maxresdefault.jpg"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "striker-demobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "cloudscraper": "^4.6.0",
+    "fake-useragent": "^1.0.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

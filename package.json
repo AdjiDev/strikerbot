@@ -2,6 +2,7 @@
   "name": "striker-demobot",
   "version": "0.24",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo bot aktif!",
     "start": "node index.js"

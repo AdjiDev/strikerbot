@@ -1,14 +1,14 @@
 {
   "name": "striker-demobot",
-  "version": "1.0.0",
+  "version": "0.24",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo bot aktif!",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rizky Kian Adji",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.5",
